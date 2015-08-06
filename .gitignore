@@ -1,0 +1,4 @@
+webrat.log
+Gemfile.lock
+.ruby-gemset
+.ruby-version
