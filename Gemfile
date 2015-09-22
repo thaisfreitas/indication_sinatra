@@ -3,9 +3,10 @@ source "https://rubygems.org"
 
 # gem "rails"
 gem 'sinatra'
-gem 'cucumber'  
-gem 'rspec'  
-gem 'webrat' 
+gem 'cucumber'    
 gem 'cucumber-sinatra'
 gem 'httparty'
-gem 'mongo'
+gem "mongoid" , '~> 4.0.2'
+gem 'json'
+gem 'rspec-expectations'
+gem 'bson_ext'
