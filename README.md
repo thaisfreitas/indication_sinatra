@@ -11,6 +11,9 @@
 - Run 'mongod'
 - start the app: shotgun config.ru
 
+#URL Example
+- http://127.0.0.1:9393/indication
+
 #TODO
 - create a rake task to run the tests
 
