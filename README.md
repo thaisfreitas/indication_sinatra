@@ -14,6 +14,9 @@
 #URL Example
 - http://127.0.0.1:9393/indication
 
+#Run Tests
+- cucumber
+
 #TODO
 - create a rake task to run the tests
 
